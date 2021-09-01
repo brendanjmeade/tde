@@ -7,4 +7,4 @@ Dislocation theory is a ubiquitous tool used to model the quasi-static response 
 
 There are also two Python TDE implementations:
 - Richard Styron (richard@earth-analysis.com) has produced a python version! (https://github.com/cossatot/tri_dislocations_python)
-- [`cutde`](https://github.com/tbenthompson/cutde) has parallelized and optionally GPU accelerated implementations of the TDE method from Nikkhoo and Walter 2015. 
+- **HIGHLY RECOMMENDED IN 2021:** [`cutde`](https://github.com/tbenthompson/cutde) has parallelized and optionally GPU accelerated implementations of the TDE method from Nikkhoo and Walter 2015. 
